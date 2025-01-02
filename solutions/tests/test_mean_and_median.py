@@ -13,7 +13,14 @@ Created on Dec 27, 2024.
 
 """
 import unittest
-from solutions.mean_and_median import mean_and_median
+import sys
+import os
+
+
+# Add the parent directory to the sys.path
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+
+from mean_and_median import mean_and_median
 
 class TestMeanAndMedian(unittest.TestCase):
   """Unit tests for the function `mean_and_median`."""
