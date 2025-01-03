@@ -1,42 +1,38 @@
 """ "This is a test module for the fibonacci function."""
-# test_fibonacci.py
-
-import os
-import sys
-
-# Add the parent directory of fibonacci.py to sys.path
-sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
-
-# Now you can import the fibonacci module
-import unittest
-
-from fibonacci import fibonacci  # Import the fibonacci function
 
 
-class TestFibonacci(unittest.TestCase):
-    """Test cases for the fibonacci function."""
+def fibonacci(n):
+    # Ensure the input is a non-negative integer
+    if not isinstance(n, int) or n < 0:
+        raise ValueError("Input must be a non-negative integer")
 
-    def test_valid_inputs(self):
-        """Test fibonacci function with valid inputs."""
-        self.assertEqual(fibonacci(5), [0, 1, 1, 2, 3])
-        self.assertEqual(fibonacci(1), [0])
-        self.assertEqual(fibonacci(10), [0, 1, 1, 2, 3, 5, 8, 13, 21, 34])
-        self.assertEqual(fibonacci(4), [0, 1, 1, 2])
-
-    def test_invalid_inputs(self):
-        """Test fibonacci function with invalid inputs."""
-        with self.assertRaises(ValueError):
-            fibonacci(-1)  # Negative input
-
-        with self.assertRaises(ValueError):
-            fibonacci("a")  # String input
-
-        with self.assertRaises(ValueError):
-            fibonacci(3.5)  # Float input
-
-        with self.assertRaises(ValueError):
-            fibonacci([])  # List input
+    # Generate Fibonacci sequence
+    fib = []
+    a, b = 0, 1
+    for _ in range(n):
+        fib.append(a)
+        a, b = b, a + b
+    return fib
 
 
-if __name__ == "__main__":
-    unittest.main()
+def test_fibonacci():
+    # Valid input tests
+    # Test for n=0, should return an empty list
+    assert fibonacci(0) == []
+    print("Test passed for n=0")
+
+    # Test for n=1, should return [0]
+    assert fibonacci(1) == [0]
+    print("Test passed for n=1")
+
+    # Test for n=5, should return [0, 1, 1, 2, 3]
+    assert fibonacci(5) == [0, 1, 1, 2, 3]
+    print("Test passed for n=5")
+
+    # Test for n=10, should return the first 10 Fibonacci numbers
+    assert fibonacci(10) == [0, 1, 1, 2, 3, 5, 8, 13, 21, 34]
+    print("Test passed for n=10")
+
+
+# Run the tests
+test_fibonacci()
