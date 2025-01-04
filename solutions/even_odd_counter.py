@@ -18,4 +18,4 @@ def count_even_odd(numbers):
     even_count = sum(1 for num in numbers if num % 2 == 0)
     odd_count = len(numbers) - even_count
 
-    return {'even': even_count, 'odd': odd_count}
+    return {"even": even_count, "odd": odd_count}
