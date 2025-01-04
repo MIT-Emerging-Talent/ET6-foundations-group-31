@@ -15,10 +15,19 @@ professional standards worldwide.
 
 ## Team Members Individual Goals
 
-Raneem Rami: I aim to collaborate with my team members to create well-documented
+I aim to collaborate with my team members to create well-documented
 and tested solutions by helping them and benefiting from their knowledge. I also
 aim to gain more skills in using GitHub efficiently as I am so excited to use it
 again in the future.
 
-Pyae Linn: My goal is to become a skilled and impactful AI or ML engineer,
+My goal is to become a skilled and impactful AI or ML engineer,
 leveraging my expertise to create innovative solutions.
+
+Develop excellent programming habits. This encompasses
+documentation, testing, and writing clean, readable code.
+ My goal is to grow as a versatile developer
+by mastering multiple technologies and frameworks.
+
+My goal is learn and grow together with these team members.
+To share something we know and learn from each other to reach
+our goals
