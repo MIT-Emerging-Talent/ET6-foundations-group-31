@@ -11,6 +11,9 @@ def mean_and_median(values):
 
     Raises:
           TypeError: If `values` is not a list.
+          
+    @author: Myat Charm
+    Created on Dec 27, 2024.
     """
     if not isinstance(values, list):
         raise TypeError("Input must be a list.")
