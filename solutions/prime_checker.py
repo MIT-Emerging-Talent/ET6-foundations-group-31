@@ -36,11 +36,17 @@ def prime_checker(number: int) -> str:
         >>> prime_checker(13)
         'Prime'
     """
+    # Input validation: check if the number is an integer
+    if not isinstance(number, int):
+        raise ValueError("The input must be an integer.")
+
     # Numbers less than 2 are not prime
     if number < 2:
         return "Not Prime"
+
     # Check divisors from 2 up to the square root of the number
     for i in range(2, int(number**0.5) + 1):
         if number % i == 0:
             return "Not Prime"
+
     return "Prime"
