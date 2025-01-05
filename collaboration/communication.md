@@ -13,17 +13,22 @@ ______________________________________________________________________
 
 ## Communication Schedule
 
-| Day | How | The topic of discussion | | --- | :-: | ----------------------- |
-| | | |
+| Day | How | The topic of discussion | Start Time | Duration | Participants | Remark|
+| --- | --- | --- | --- | --- | --- | --- |
+|Any|Via Google Meet|DiscussWhatWeNeed|6 AM EST|1 Hr|7 ppl|Discuss|
+
+.......
 
 ## Communication Channels
 
 how often will we get in touch on each channel, and what we will discuss there:
 
-- **Issues**:
-- **Pull Requests**:
-- **Slack/Discord**:
-- **Video Calls**:
+- We will use Slack as our main channel. We will use ‘WhatsApp and Telegram’ occasionally.
+
+- **Issues**: Keep posting or updating on Slack every day at least a message.
+- **Pull Requests**: Will decide later.
+- **Slack/Discord**: Slack
+- **Video Calls**: Google Meet (facilitator will provide the link)
 
 ______________________________________________________________________
 
@@ -50,5 +55,5 @@ stubbornly getting no where. Here is a general guide for when to ask for help
 based on how long you've been stuck on the same problem:
 
 1. _0 -> 30 min_: Try on your own
-1. _30 -> 60 min_: Ask your group for help
-1. _60+ min_: Tag your coaches in Slack or GitHub
+2. _30 -> 60 min_: Ask your group for help
+3. _60+ min_: Tag your coaches in Slack or GitHub
