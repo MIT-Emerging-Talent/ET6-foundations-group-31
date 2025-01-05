@@ -10,6 +10,9 @@ def factorial(n):
 
         Raises:
             ValueError: If `n` is a negative integer.
+        Examples:
+            >>> print(factorial(3))  # Output: 6
+            >>> print(factorial(5))  # Output: 120
 
     @author: Myat Charm
     Created on Jan 5, 2025.
@@ -20,8 +23,3 @@ def factorial(n):
         return 1
     else:
         return n * factorial(n - 1)
-
-
-# Example usage
-if __name__ == "__main__":
-    print(factorial(5))  # Output: 120
