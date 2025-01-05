@@ -1,8 +1,10 @@
+"""Calculate the Greatest Common Divisor (GCD) of two numbers
+using the Euclidean algorithm.
+"""
+
+
 def gcd(a, b):
     """
-    Calculate the Greatest Common Divisor (GCD) of two numbers
-    using the Euclidean algorithm.
-
     Parameters:
     a (int): The first number.
     b (int): The second number.
