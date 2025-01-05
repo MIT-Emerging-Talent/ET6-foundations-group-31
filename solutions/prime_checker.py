@@ -24,15 +24,8 @@ def prime_checker(number: int) -> str:
     Examples:
         >>> prime_checker(2)
         'Prime'
-
         >>> prime_checker(4)
         'Not Prime'
-        >>> prime_checker(2)
-        'Prime'
-
-        >>> prime_checker(4)
-        'Not Prime'
-
         >>> prime_checker(13)
         'Prime'
     """
