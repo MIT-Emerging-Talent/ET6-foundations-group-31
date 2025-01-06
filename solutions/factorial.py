@@ -1,22 +1,27 @@
-def factorial(n):
+def factorial(n: int) -> int:
     """
-        Calculate the factorial of a number using recursion.
+    Calculate the factorial of a number using recursion.
 
-        Args:
-            n (int): The number to calculate the factorial for.
+    Args:
+        n (int): The number to calculate the factorial for.
 
-        Returns:
-            int: The factorial of the number.
+    Returns:
+        int: The factorial of the number.
 
         Raises:
             ValueError: If `n` is a negative integer.
-        Examples:
-            >>> print(factorial(3))  # Output: 6
-            >>> print(factorial(5))  # Output: 120
 
-    @author: Myat Charm
+    Examples:
+        >>> factorial(5)
+        120
+        >>> factorial(0)
+        1
+        >>> factorial(1)
+
+    Author: Myat Charm
     Created on Jan 5, 2025.
     """
+    assert isinstance(n, int), "Input must be an integer."
     if n < 0:
         raise ValueError("Input must be a non-negative integer.")
     if n == 0:
