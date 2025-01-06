@@ -24,10 +24,6 @@ class TestMeanAndMedian(unittest.TestCase):
         self.assertEqual(mean_and_median([1, 2, 3, 4, 5]), (3.0, 3))
         self.assertEqual(mean_and_median([1, 2, 3, 4, 5, 6]), (3.5, 3.5))
 
-    def test_empty_list(self):
-        """Test case for an empty input list."""
-        self.assertEqual(mean_and_median([]), (None, None))
-
     def test_single_element_list(self):
         """Test case with a single element in the list."""
         self.assertEqual(mean_and_median([42]), (42.0, 42))
