@@ -57,6 +57,9 @@ of the test coverage for each solution.
 14. **Greatest Common Divisor**
     - Tests validate the GCD for pairs of numbers, including edge and boundary cases.
 
+15. **my_grade (Raneem Rami)**
+    - Tests to give the equalevent grade for a 4.0 scale GPA.
+  
 ---
 
 ## Purpose
