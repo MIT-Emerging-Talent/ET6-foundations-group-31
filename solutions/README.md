@@ -17,11 +17,11 @@ whether it is "Correct" or "Wrong".
 2. **Word Comparator (MD Jubayer Khan)**
    - Compare two words by checking if their sorted characters are the same.
 
-3. **String Compariso (May Mon)**
+3. **String Compariso (May Mon Thant)**
    - Sorts all characters in a string alphabetically.
 It raises appropriate errors for invalid input types or empty strings.
 
-4. **Make Chocolate (May Mon)**
+4. **Make Chocolate (May Mon Thant)**
    - Calculates the required small bars after using as many big bars as possible,
 ensuring the goal is achievable.
 
@@ -58,6 +58,10 @@ ensuring the goal is achievable.
   
 15. **my_grade (Raneem Rami)**
     - Gives the equalevent grade for a 4.0 scale GPA.
+
+16. **cat_dog_challenge (May Mon Thant)**
+    - Check if the number of occurrences
+of the substrings "cat" and "dog" are the same in a given string.
 
 ---
 

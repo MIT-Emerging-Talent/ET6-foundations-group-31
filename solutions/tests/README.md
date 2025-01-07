@@ -57,9 +57,13 @@ of the test coverage for each solution.
 14. **Greatest Common Divisor**
     - Tests validate the GCD for pairs of numbers, including edge and boundary cases.
 
-15. **my_grade (Raneem Rami)**
+15. **my_grade**
     - Tests to give the equalevent grade for a 4.0 scale GPA.
-  
+
+16. **cat_dog_challenge**
+    - Check if the number of occurrences
+of the substrings "cat" and "dog" are the same in a given string.
+
 ---
 
 ## Purpose
