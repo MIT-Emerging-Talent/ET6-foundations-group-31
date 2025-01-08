@@ -60,7 +60,7 @@ ______________________________________________________________________
 - Charm: _4-5h (flexible)_;
 - Raneem: _(flexible)_;
 - Pyae: _5h_;
-- MayMon: _?h_;
+- MayMon: _5h_;
 - Jubayer: _(flexible)_;
 - Thilakan: _?h_;
 - Safa: _?h_;
