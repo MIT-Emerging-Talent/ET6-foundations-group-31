@@ -4,7 +4,7 @@
 
 We aim to collaboratively develop and maintain high-quality, scalable, solutions
 that address specific problems or needs. Although we are still learners,
-we already dream
+we dream 
 of changing the world through our code. Taking advantage of open communication,
 GitHub facilities, and the emerging talent foundation track we aim to foster an
 inclusive environment where team members can learn, contribute, and innovate
@@ -33,6 +33,9 @@ Thilakan Jegatheeswaran: I aim to contribute to teamwork,
 create unique code, generate creative ideas,
 and collaborate effectively on shared objectives.
 
-May Mon Thant: My goal is learn and grow together with
+May Mon Thant: My goal is to learn and grow together with
 these team members. To share something we know and
 learn from each other to reach our goals.
+
+Myint Myat(Charm): Ba a Team player and Become accustomed to 
+writing code in production and be well prepared for the projects/jobs.
