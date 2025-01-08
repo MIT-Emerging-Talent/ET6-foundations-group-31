@@ -13,13 +13,14 @@ ______________________________________________________________________
 
 ## Communication Schedule
 
-| Day | How | The topic of discussion | Start Time | Duration| Remark|
+| Day | How | The topic of discussion | Start Time | Duration| Participants |
 | ----| :---: | :----: | :----: | :----: | :----: |
-|22/12/2024|Via Google Meet|Getting to know each other|3 AM EST|1 Hr|DiscussGroupNorms|
-|26/12/2024|Via Google Meet|Tools of Colab-Development|10 AM EST|2 Hr|FocusOnIndDev|
-|01/01/2024|Via Google Meet|Team Catch up|6 AM EST|2 Hr|Pull request Demo|
-|03/01/2024|Via Google Meet|Team Catch up|6 AM EST|2 Hr| ? |
-|06/01/2024|Via Google Meet|Team Catch up|6 AM EST|2 Hr|Things for Retrospective|
+|22/12/2024|Google Meet|Introduction and Group Norms|3 AM EST|1 Hr|6 ppl|
+|26/12/2024|Google Meet|Tools of Colab-Dev|10 AM EST|2 Hr|6 ppl|
+|01/01/2024|Google Meet|Git-Branching Strategy|6 AM EST|2 Hr|7 ppl|
+|03/01/2024|Google Meet|Team Catch up:Challenge Progress|6 AM EST|2 Hr|6 ppl|
+|06/01/2024|Google Meet|Code Review|6 AM EST|1 Hr|7 ppl|
+|08/01/2024|Google Meet|Project Retrospective|6 AM EST|1 Hr|7 ppl|
 
 .......
 
@@ -42,17 +43,27 @@ ______________________________________________________________________
 
 (In terms of EST)
 
-| Day | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |
-| ------ | :----: | :-----: | :-------: | :------: | :----: | :------: | :----: |
-| Myat Charm | 4-5 AM | 3-5 AM | 4-5 AM | 4-5 AM |3-5 AM | 3-5 AM | - AM |
+|          | Mon | Tue | Wed | Thur | Fri | Sat | Sun |
+|----------|-----|-----|-----|------|-----|-----|-----|
+| Muqadsa  | ✓   | ✓   | ✓  | ✓    | ✓   | ✓   | ✓ |
+| Charm    | ✓   | ✓   | ✓  | ✓    | ✓   | ✓   | ✓ |
+| Raneem   | ?   | ✓   | ?   | ?    | ✓   | ✓   | ✓ |
+| Pyae     | ✓   | ✓   | ✓  | ✓   | ✓   | ✓   | ✓  |
+| MayMon   | ?   | X   | ✓   | ✓   | X   | ✓   | ✓  |
+| Jubayer  | ?   | ✓   | ?   | ✓   | ?   | ✓   | ✓  |
+| Thilakan | ✓   | ✓   | ✓  | X    | ✓   | ✓   | X  |
+| Safa     | X   | X   | X   | X    | X   | X   | X   |
 
 ### How many hours everyone has per day
 
-- MyatCharm: _5h_;
-- name: _6h_;
-- name: _5h_;
-- name: _4h_;
-- name: _3h_;
+- Muqadsa: _4-5h (flexible if needed)_;
+- Charm: _4-5h (flexible)_;
+- Raneem: _?h_;
+- Pyae: _?h_;
+- MayMon: _?h_;
+- Jubayer: _?h_;
+- Thilakan: _?h_;
+- Safa: _?h_;
 
 ## Asking for Help
 
