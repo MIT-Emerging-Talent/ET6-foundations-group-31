@@ -27,12 +27,12 @@ ______________________________________________________________________
 
 how often will we get in touch on each channel, and what we will discuss there:
 
-- **Issues**: Represents all tasks and tracks project progress.
-- **Pull Requests**: For code reviews, adding constructive feedback,
+* **Issues**: Represents all tasks and tracks project progress.
+* **Pull Requests**: For code reviews, adding constructive feedback,
   and collaborative development tasks.
-- **Slack**: We will use Slack as our main channel. We will use
+* **Slack**: We will use Slack as our main channel. We will use
   ‘WhatsApp and Telegram’ occasionally.
-- **Video Calls**: Google Meet (facilitator will provide the link).
+* **Video Calls**: Google Meet (facilitator will provide the link).
   Facilitates collaborative discussions, presentations, and interactive meetings.
 
 ______________________________________________________________________
@@ -96,9 +96,9 @@ for help based on how long you've been stuck on the same problem:
 * **Reach Out to Coaches/Mentors:** Contact experienced team members or
   coaches for assistance on Slack.
 * **Be Clear and Concise:** When asking for help, provide:
-  - A clear description of the problem
-  - Relevant code snippets and error messages
-  - Steps you've already taken
+  * A clear description of the problem
+  * Relevant code snippets and error messages
+  * Steps you've already taken
 
 >_Remember: Asking for help is a sign of strength, not weakness.
 It's how we learn and grow together as a team._
