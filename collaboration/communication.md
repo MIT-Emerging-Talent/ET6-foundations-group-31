@@ -69,7 +69,7 @@ There's a fine line between confidently learning from your mistakes, and
 stubbornly getting no where. Here is a structured guide for when to ask 
 for help based on how long you've been stuck on the same problem:
 
-**1. Go Solo First**
+### 1. Go Solo First
 
 * **Dive Deep:** Tackle the challenge yourself. Experiment, learn, and
   use available resources (docs, tutorials, etc.). This builds your skills
@@ -77,21 +77,21 @@ for help based on how long you've been stuck on the same problem:
 * **Embrace the Struggle:** Persist as long as you're making progress,
   even if it's slow.
 
-**2. When to Ask for Help**
+### 2. When to Ask for Help
 
 * **Assess Your Progress:** After a reasonable effort, ask yourself: Am
    I still making progress? 
 * **Recognize Roadblocks:** If you're stuck, spinning your wheels, or
   not learning, it's time to change course.
 
-**3. Team Up**
+### 3. Team Up
 
 * **Discuss with Your Team:** Share your challenge with your team on Slack
    or in meetings. Explaining it often helps you understand it better.
 * **Escalate if Needed:** If the team can't solve it, consider escalating
    the issue to a wider group.
 
-**4. Seek Expert Guidance**
+### 4. Seek Expert Guidance
 
 * **Reach Out to Coaches/Mentors:** Contact experienced team members or
   coaches for assistance on Slack.
@@ -100,5 +100,5 @@ for help based on how long you've been stuck on the same problem:
     * Relevant code snippets and error messages
     * Steps you've already taken
 
-**Remember:** Asking for help is a sign of strength, not weakness.
-It's how we learn and grow together as a team. 
+>_Remember: Asking for help is a sign of strength, not weakness.
+It's how we learn and grow together as a team._ 
