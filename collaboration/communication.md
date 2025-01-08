@@ -15,10 +15,8 @@ ______________________________________________________________________
 
 | Day | How | The topic of discussion | Start Time | Duration| Remark|
 | --- | --- | --- | --- | --- | --- | --- |
-|22/12/2024|Via Google Meet|Getting to know each other|3 AM EST|1 Hr|
-| | | | | | Discuss Group Norms|
-|26/12/2024|Via Google Meet|Tools of Collaborative Development|10 AM EST|2 Hr|
-| | | | | | Focus on individual development|
+|22/12/2024|Via Google Meet|Getting to know each other|3 AM EST|1 Hr| Discuss Group Norms|
+|26/12/2024|Via Google Meet|Tools of Collaborative Development|10 AM EST|2 Hr|Focus on individual development|
 |01/01/2024|Via Google Meet|Team Catch up|6 AM EST|2 Hr|Pull request Demo|
 |03/01/2024|Via Google Meet|Team Catch up|6 AM EST|2 Hr| ? |
 |06/01/2024|Via Google Meet|Team Catch up|6 AM EST|2 Hr|Things for Retrospective|
