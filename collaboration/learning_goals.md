@@ -4,7 +4,7 @@
 
 We aim to collaboratively develop and maintain high-quality, scalable, solutions
 that address specific problems or needs. Although we are still learners,
-we dream 
+we dream
 of changing the world through our code. Taking advantage of open communication,
 GitHub facilities, and the emerging talent foundation track we aim to foster an
 inclusive environment where team members can learn, contribute, and innovate
@@ -37,6 +37,6 @@ May Mon Thant: My goal is to learn and grow together with
 these team members. To share something we know and
 learn from each other to reach our goals.
 
-Myint Myat(Charm): wants to be accustomed to 
-writing code in production and being well-prepared 
+Myint Myat(Charm): wants to be accustomed to
+writing code in production and being well-prepared
 for the projects/jobs.
