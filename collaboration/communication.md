@@ -59,7 +59,7 @@ ______________________________________________________________________
 - Muqadsa: _4-5h (flexible if needed)_;
 - Charm: _4-5h (flexible)_;
 - Raneem: _?h_;
-- Pyae: _?h_;
+- Pyae: _5h_;
 - MayMon: _?h_;
 - Jubayer: _?h_;
 - Thilakan: _?h_;
