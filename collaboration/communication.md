@@ -45,7 +45,7 @@ ______________________________________________________________________
 
 |          | Mon | Tue | Wed | Thur | Fri | Sat | Sun |
 |----------|-----|-----|-----|------|-----|-----|-----|
-| Muqadsa  | ✓   | ✓   | ✓  | ✓    | ✓   | ✓   | ✓ |
+| Muqadsa  | ✓   | ?   | ✓  | ?    | ✓   | ?   | ✓ |
 | Charm    | ✓   | ✓   | ✓  | ✓    | ✓   | ✓   | ✓ |
 | Raneem   | ?   | ✓   | ?   | ?    | ✓   | ✓   | ✓ |
 | Pyae     | ✓   | ✓   | ✓  | ✓   | ✓   | ✓   | ✓  |
@@ -56,7 +56,7 @@ ______________________________________________________________________
 
 ### How many hours everyone has per day
 
-- Muqadsa: _4-5h (flexible if needed)_;
+- Muqadsa: _(flexible if needed)_;
 - Charm: _4-5h (flexible)_;
 - Raneem: _(flexible)_;
 - Pyae: _5h_;
