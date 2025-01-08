@@ -37,5 +37,6 @@ May Mon Thant: My goal is to learn and grow together with
 these team members. To share something we know and
 learn from each other to reach our goals.
 
-Myint Myat(Charm): Ba a Team player and Become accustomed to 
-writing code in production and be well prepared for the projects/jobs.
+Myint Myat(Charm): wants to be accustomed to 
+writing code in production and being well-prepared 
+for the projects/jobs.
