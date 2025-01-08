@@ -16,11 +16,11 @@ ______________________________________________________________________
 | Day | How | The topic of discussion | Start Time | Duration| Participants |
 | ----| :---: | :----: | :----: | :----: | :----: |
 |22/12/2024|Google Meet|Introduction and Group Norms|3 AM EST|1 Hr|6 ppl|
-|26/12/2024|Google Meet|Tools of Colab-Dev|10 AM EST|2 Hr|6 ppl|
-|01/01/2024|Google Meet|Git-Branching Strategy|6 AM EST|2 Hr|7 ppl|
-|03/01/2024|Google Meet|Team Catch up:Challenge Progress|6 AM EST|2 Hr|6 ppl|
-|06/01/2024|Google Meet|Code Review|6 AM EST|1 Hr|7 ppl|
-|08/01/2024|Google Meet|Project Retrospective|6 AM EST|1 Hr|7 ppl|
+|26/12/2024|Google Meet|Tools of Collab-Dev|10 AM EST|2 Hr|6 ppl|
+|01/01/2025|Google Meet|Git-Branching Strategy|6 AM EST|2 Hr|7 ppl|
+|03/01/2025|Google Meet|Team Catch up:Challenge Progress|6 AM EST|2 Hr|6 ppl|
+|06/01/2025|Google Meet|Code Review|6 AM EST|1 Hr|7 ppl|
+|08/01/2025|Google Meet|Project Retrospective|6 AM EST|1 Hr|7 ppl|
 
 .......
 
