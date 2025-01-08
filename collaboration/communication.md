@@ -54,14 +54,14 @@ ______________________________________________________________________
 
 ### How many hours everyone has per day
 
-- Muqadsa: _4-5h (flexible if needed)_;
-- Charm: _?h_;
-- Raneem: _?h_;
-- Pyae: _?h_;
-- MayMon: _?h_;
-- Jubayer: _?h_;
-- Thilakan: _?h_;
-- Safa: _?h_;
+* Muqadsa: _4-5h (flexible if needed)_;
+* Charm: _?h_;
+* Raneem: _?h_;
+* Pyae: _?h_;
+* MayMon: _?h_;
+* Jubayer: _?h_;
+* Thilakan: _?h_;
+* Safa: _?h_;
 
 ## Asking for Help
 
