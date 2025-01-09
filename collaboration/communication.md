@@ -51,7 +51,7 @@ ______________________________________________________________________
 | Pyae     | ✓   | ✓   | ✓  | ✓   | ✓   | ✓   | ✓  |
 | MayMon   | ?   | X   | ✓   | ✓   | X   | ✓   | ✓  |
 | Jubayer  | ?   | ✓   | ?   | ✓   | ?   | ✓   | ✓  |
-| Thilakan | ✓   | ✓   | ✓  | X    | ✓   | ✓   | X  |
+| Thilakan | ✓   | ✓   | ✓  |  ✓   | ✓   | ✓   | X  |
 | Safa     | X   | X   | X   | X    | X   | X   | X   |
 
 ### How many hours everyone has per day
@@ -62,8 +62,8 @@ ______________________________________________________________________
 - Pyae: _5h_;
 - MayMon: _5h_;
 - Jubayer: _(flexible)_;
-- Thilakan: _?h_;
-- Safa: _?h_;
+- Thilakan:  _(flexible)_;
+- Safa:  _(flexible)_;
 
 ## Asking for Help
 
