@@ -8,6 +8,7 @@ Author: Safa Saber
 import unittest
 from solutions.temperature_converter import celsius_to_fahrenheit, fahrenheit_to_celsius
 
+
 class TestTemperatureConverter(unittest.TestCase):
     """Unit tests for the `temperature_converter` functions."""
 
@@ -39,11 +40,12 @@ class TestTemperatureConverter(unittest.TestCase):
         """Test invalid input for Celsius to Fahrenheit conversion."""
         with self.assertRaises(ValueError):
             celsius_to_fahrenheit("not a number")
-        
+
     def test_invalid_fahrenheit_input(self):
         """Test invalid input for Fahrenheit to Celsius conversion."""
         with self.assertRaises(ValueError):
             fahrenheit_to_celsius("not a number")
-        
+
+
 if __name__ == "__main__":
     unittest.main()
