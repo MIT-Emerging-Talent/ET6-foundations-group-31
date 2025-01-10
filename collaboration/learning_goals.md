@@ -37,3 +37,5 @@ generate creative ideas, and collaborate effectively on shared objectives.
 
 Myat Charm: My goal is to become accustomed with writing code in production and
 be well prepared for the projects / jobs
+
+Safa Saber: My goal is to expand my expertise in machine learning and artificial intelligence while contributing to innovative projects. I strive to collaborate effectively with my team, share knowledge, and continuously grow both personally and professionally.

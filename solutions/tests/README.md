@@ -64,6 +64,11 @@ of the test coverage for each solution.
     - Check if the number of occurrences
 of the substrings "cat" and "dog" are the same in a given string.
 
+17. **String Reversal (Safa Saber)**
+    - Reverses the provided string and returns the reversed version.
+
+18. **Temperature Converter (Safa Saber)**
+    - Converts temperatures between Celsius and Fahrenheit with error handling for invalid inputs
 ---
 
 ## Purpose
