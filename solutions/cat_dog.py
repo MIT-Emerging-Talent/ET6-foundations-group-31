@@ -34,8 +34,8 @@ def cat_dog(input_string: str) -> bool:
         raise TypeError("Input must be a string.")
 
     max_length = 15  # Define a reasonable length limit for the input string
-    assert (
-        len(input_string) <= max_length
-    ), f"Input string is too long. Maximum allowed length is {max_length} characters."
+    assert len(input_string) <= max_length, (
+        f"Input string is too long. Maximum allowed length is {max_length} characters."
+    )
 
     return input_string.count("cat") == input_string.count("dog")
