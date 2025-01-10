@@ -67,7 +67,9 @@ of the substrings "cat" and "dog" are the same in a given string.
     - Reverses the provided string and returns the reversed version.
 
 18. **Temperature Converter (Safa Saber)**
-    - Converts temperatures between Celsius and Fahrenheit with error handling for invalid inputs.
+    - Converts temperatures between Celsius and
+Fahrenheit with error handling for invalid inputs
+
 ---
 
 ## Purpose
