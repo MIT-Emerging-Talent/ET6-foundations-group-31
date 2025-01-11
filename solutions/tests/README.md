@@ -71,6 +71,11 @@ of the substrings "cat" and "dog" are the same in a given string.
     - Converts temperatures between Celsius and
 Fahrenheit with error handling for invalid inputs
 
+19. **wallet exchange (MD Jubayer Khan)**
+    - Determines the winner based on the difference
+between two integers. If the difference is even, the winner is "Bob";
+if the difference is odd, the winner is "Alice".
+
 ---
 
 ## Purpose
