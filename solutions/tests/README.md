@@ -76,6 +76,11 @@ Fahrenheit with error handling for invalid inputs
 between two integers. If the difference is even, the winner is "Bob";
 if the difference is odd, the winner is "Alice".
 
+20. **longest_zero_substring (MD Jubayer Khan)**
+    - Calculate the length
+of the longest substring of zeros ('0') after eliminating pairs of
+consecutive ones ('1').
+
 ---
 
 ## Purpose
