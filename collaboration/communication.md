@@ -13,10 +13,15 @@ ______________________________________________________________________
 
 ## Communication Schedule
 
-| Day | How | The topic of discussion | Start Time | Duration | Participants | Remark|
-| --- | --- | --- | --- | --- | --- | --- |
-|22/12/2024|Via Google Meet|Getting to know each other|3 AM EST|1 Hr|6 ppl|DiscussGroupNorms|
-|26/12/2024|Via Google Meet|Tools of Collaborative Development|10 AM EST|? Hr|? ppl|???|
+| Day | How | The topic of discussion | Start Time | Duration| Participants |
+| ----| :---: | :----: | :----: | :----: | :----: |
+|22/12/2024|Google Meet|Introduction and Group Norms|3 AM EST|1 Hr|6 ppl|
+|26/12/2024|Google Meet|Tools of Collab-Dev|10 AM EST|2 Hr|6 ppl|
+|01/01/2025|Google Meet|Git-Branching Strategy|6 AM EST|2 Hr|7 ppl|
+|03/01/2025|Google Meet|Team Catch up:Challenge Progress|6 AM EST|2 Hr|6 ppl|
+|06/01/2025|Google Meet|Code Review|6 AM EST|1 Hr|7 ppl|
+|08/01/2025|Google Meet|Project Retrospective|6 AM EST|1 Hr|7 ppl|
+|12/01/2025|Google Meet|Final Delivery Check |6 AM EST|1 Hr|9 ppl|
 
 .......
 
@@ -37,17 +42,29 @@ ______________________________________________________________________
 
 ### Availability for calling/messaging
 
-| Day | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday | |
------- | :----: | :-----: | :-------: | :------: | :----: | :------: | :----: |
-| _name_ | | | | | | | |
+(In terms of EST)
+
+|          | Mon | Tue | Wed | Thur | Fri | Sat | Sun |
+|----------|-----|-----|-----|------|-----|-----|-----|
+| Muqadsa  | ✓   | ?   | ✓  | ?    | ✓   | ?   | ✓ |
+| Charm    | ✓   | ✓   | ✓  | ✓    | ✓   | ✓   | ✓ |
+| Raneem   | ?   | ✓   | ?   | ?    | ✓   | ✓   | ✓ |
+| Pyae     | ✓   | ✓   | ✓  | ✓   | ✓   | ✓   | ✓  |
+| MayMon   | ?   | X   | ✓   | ✓   | X   | ✓   | ✓  |
+| Jubayer  | ?   | ✓   | ?   | ✓   | ?   | ✓   | ✓  |
+| Thilakan | ✓   | ✓   | ✓  |  ✓   | ✓   | ✓   | X  |
+| Safa     | ✓   | ✓   | ✓  | ✓   | ✓   | ✓   | ✓  |
 
 ### How many hours everyone has per day
 
-- name: _5h_;
-- name: _6h_;
-- name: _5h_;
-- name: _4h_;
-- name: _3h_;
+- Muqadsa: _(flexible if needed)_;
+- Charm: _4-5h (flexible)_;
+- Raneem: _(flexible)_;
+- Pyae: _5h_;
+- MayMon: _5h_;
+- Jubayer: _(flexible)_;
+- Thilakan:  _(flexible)_;
+- Safa:  _(flexible)_;
 
 ## Asking for Help
 
