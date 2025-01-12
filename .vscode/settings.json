@@ -49,6 +49,7 @@
   // Defines a default HTML formatter which takes precedence over all other formatter settings. Must be the identifier of an extension contributing a formatter
   "[html]": {
     "editor.defaultFormatter": "vscode.html-language-features"
+    
   },
 
   //-------- Emmet configuration --------
@@ -106,7 +107,7 @@
 
   // Enable path suggestoins while writing links in markdown files
   "markdown.suggest.paths.enabled": true,
-
+ 
   // Defines a default markdown formatter which takes precedence over all other formatter settings. Must be the identifier of an extension contributing a formatter
   "[markdown]": {
     "editor.defaultFormatter": "DavidAnson.vscode-markdownlint"
