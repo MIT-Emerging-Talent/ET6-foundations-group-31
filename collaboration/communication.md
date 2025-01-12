@@ -21,6 +21,7 @@ ______________________________________________________________________
 |03/01/2025|Google Meet|Team Catch up:Challenge Progress|6 AM EST|2 Hr|6 ppl|
 |06/01/2025|Google Meet|Code Review|6 AM EST|1 Hr|7 ppl|
 |08/01/2025|Google Meet|Project Retrospective|6 AM EST|1 Hr|7 ppl|
+|12/01/2025|Google Meet|Final Delivery Check |6 AM EST|1 Hr|9 ppl|
 
 .......
 
