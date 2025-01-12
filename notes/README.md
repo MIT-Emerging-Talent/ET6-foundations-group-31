@@ -12,7 +12,8 @@
      (e.g., "To Do").
 
 3. **Create a Branch**
-   - Use a meaningful branch name based on the issue, such as `Your-name(binaryTodecimal).
+   - Use a meaningful branch name based on the issue,
+     such as `Your-name(binaryTodecimal)'.
 
 4. **Push Your Code via VSCode**
    - Implement your changes locally using VSCode.
@@ -29,14 +30,17 @@
 
 7. **Wait for Review**
    - Wait for a team member to assign themselves as a reviewer.
-   - Address any feedback provided by the reviewer until they approve your changes.
+   - Address any feedback provided by the reviewer
+   - until they approve your changes.
 
 8. **Merge the Pull Request**
    - Once your code is reviewed, merge it into the main branch.
   
 9. **Close the Issue and Move It to the "Done" Column**
-   - The issue linked to the pull request will automatically close upon merging.
-   - Ensure that the issue moves to the "Done" column on the project board.
+   - The issue linked to the pull request will
+     automatically close upon merging.
+   - Ensure that the issue moves to the "Done"
+     column on the project board.
 
 ---
 
