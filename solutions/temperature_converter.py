@@ -10,7 +10,7 @@ for converting Fahrenheit to Celsius.
 
 def celsius_to_fahrenheit(celsius: float) -> float:
     """
-    Convert Celsius to Fahrenheit.
+    Convert Celsius to Fahrenheit..
 
     Args:
         celsius (float): The temperature in Celsius to be converted.
