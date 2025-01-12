@@ -48,7 +48,7 @@ def get_list_sum(sequence_length: int) -> int:
     numbers = []
     for i in range(sequence_length):
         try:
-            number = int(input(f"Enter element {i+1}: "))
+            number = int(input(f"Enter element {i + 1}: "))
         except ValueError as exc:
             raise ValueError("Invalid input. Please enter a number.") from exc
         numbers.append(number)
