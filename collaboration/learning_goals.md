@@ -20,8 +20,9 @@ and tested solutions by helping them and benefiting from their knowledge. I also
 aim to gain more skills in using GitHub efficiently as I am so excited to use it
 again in the future.
 
-Pyae Linn: My goal is to become a skilled and impactful AI or ML engineer,
-leveraging my expertise to create innovative solutions.
+Pyae Linn: My goal is to work collaboratively, exchange knowledge, and achieve
+success as a team while improving our skills.
+Additionally, my goal is to become an AI or ML engineer.
 
 Muqadsa Tahir: Develop excellent programming habits. This encompasses
 documentation, testing, and writing clean, readable code.
@@ -29,10 +30,16 @@ documentation, testing, and writing clean, readable code.
 MD Jubayer Khan: My goal is to grow as a versatile developer
 by mastering multiple technologies and frameworks.
 
-Thilakan Jegatheeswaran: I aim to contribute to teamwork,
-create unique code, generate creative ideas,
-and collaborate effectively on shared objectives.
+May Mon Thant: My goal is learn and grow together with these team members.
+To share something we know and learn from each other to reach our goals.
 
-May Mon Thant: My goal is learn and grow together with
-these team members. To share something we know and
-learn from each other to reach our goals.
+Thilakan: I aim to contribute to teamwork, create unique code,
+generate creative ideas, and collaborate effectively on shared objectives.
+
+Myat Charm: My goal is to become accustomed with writing code in production and
+be well prepared for the projects / jobs
+
+Safa Saber: My goal is to expand my expertise in machine learning and artificial
+intelligence while contributing to innovative projects. I strive to collaborate
+effectively with my team, share knowledge, and continuously grow both personally
+and professionally
