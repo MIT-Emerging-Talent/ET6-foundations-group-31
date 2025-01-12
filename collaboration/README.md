@@ -69,4 +69,4 @@ thrives:
 
 At Code Ninjas, we don’t just collaborate—we innovate through teamwork, fuel our
 passion for learning, and achieve success as a united force. Together, we build
-more than just solutions; we build trust, growth, and inspiration. 
+more than just solutions; we build trust, growth, and inspiration.
