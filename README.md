@@ -34,7 +34,7 @@ Our repository is thoughtfully organized to ensure smooth navigation:
   Guidelines, communication , learning goals, constraints, & retrospective.  
 
 - **`notes/`**:  
-  A centralized space for meeting minutes, shared knowledge, and documentation  
+  A centralized space for shared knowledge  
 
 - **`solutions/`**:  
   Python solutions to our coding challenges with test files.  
