@@ -24,6 +24,14 @@ class TestTemperatureConverter(unittest.TestCase):
         """Test converting -40°C to Fahrenheit."""
         self.assertEqual(celsius_to_fahrenheit(-40), -40.0)
 
+    def test_celsius_to_fahrenheit_extreme_low(self):
+        """Test converting -273.15°C to Fahrenheit."""
+        self.assertAlmostEqual(celsius_to_fahrenheit(-273.15), -459.67, places=2)
+
+    def test_celsius_to_fahrenheit_extreme_high(self):
+        """Test converting 1000°C to Fahrenheit."""
+        self.assertEqual(celsius_to_fahrenheit(1000), 1832.0)
+
     def test_fahrenheit_to_celsius_freezing(self):
         """Test converting 32°F to Celsius."""
         self.assertEqual(fahrenheit_to_celsius(32), 0.0)
@@ -35,6 +43,14 @@ class TestTemperatureConverter(unittest.TestCase):
     def test_fahrenheit_to_celsius_negative(self):
         """Test converting -40°F to Celsius."""
         self.assertEqual(fahrenheit_to_celsius(-40), -40.0)
+
+    def test_fahrenheit_to_celsius_extreme_low(self):
+        """Test converting -459.67°F to Celsius."""
+        self.assertAlmostEqual(fahrenheit_to_celsius(-459.67), -273.15, places=2)
+
+    def test_fahrenheit_to_celsius_extreme_high(self):
+        """Test converting 1832°F to Celsius."""
+        self.assertEqual(fahrenheit_to_celsius(1832), 1000.0)
 
     def test_invalid_celsius_input(self):
         """Test invalid input for Celsius to Fahrenheit conversion."""

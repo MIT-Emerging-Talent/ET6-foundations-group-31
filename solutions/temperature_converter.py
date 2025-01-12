@@ -10,7 +10,7 @@ for converting Fahrenheit to Celsius.
 
 def celsius_to_fahrenheit(celsius: float) -> float:
     """
-    Convert Celsius to Fahrenheit.
+    Convert Celsius to Fahrenheit..
 
     Args:
         celsius (float): The temperature in Celsius to be converted.
@@ -28,6 +28,10 @@ def celsius_to_fahrenheit(celsius: float) -> float:
         212.0
         >>> celsius_to_fahrenheit(-40)
         -40.0
+        >>> celsius_to_fahrenheit(-273.15)
+        -459.67
+        >>> celsius_to_fahrenheit(1000)
+        1832.0
     """
     if not isinstance(celsius, (int, float)):
         raise ValueError("Input must be a number.")
@@ -55,6 +59,10 @@ def fahrenheit_to_celsius(fahrenheit: float) -> float:
         100.0
         >>> fahrenheit_to_celsius(-40)
         -40.0
+        >>> fahrenheit_to_celsius(-459.67)
+        -273.15
+        >>> fahrenheit_to_celsius(1832)
+        1000.0
     """
     if not isinstance(fahrenheit, (int, float)):
         raise ValueError("Input must be a number.")
