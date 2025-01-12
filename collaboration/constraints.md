@@ -1,10 +1,12 @@
 # Constraints  
 
-Constraints serve as the guiding framework for our project, outlining the boundaries
+Constraints serve as the guiding framework for our project,
+outlining the boundaries
 and conditions under which we operate. They help maintain focus,
-streamline efforts,
-and conditions under which we operate. They help maintain focus, streamline efforts,
-and ensure we meet our objectives efficiently. Below are the identified constraints
+streamline efforts, and conditions under which we operate.
+They help maintain focus, streamline efforts,
+and ensure we meet our objectives efficiently.
+Below are the identified constraints
 for our project:  
 
 ---
@@ -25,7 +27,7 @@ for our project:
 
 #### 🌐 **Response Time Expectations**  
 
-- Acknowledging diverse time zones,academic workloads,
+- Acknowledging diverse time zones, academic workloads,
 - and other personal responsibilities, our average team response time is **six hours**,
 - necessitating an asynchronous workflow for seamless collaboration.
 
@@ -79,5 +81,5 @@ toward success.
 - **Focus**: Prioritization of tasks that align with our goals.  
 - **Quality**: Time and effort to refine solutions for excellence.  
 
-With these constraints in place, we are equipped to face challenges, innovate
-within boundaries, and deliver an exceptional project. 💡
+With these constraints in place, we are equipped to face challenges,
+innovate within boundaries, and deliver an exceptional project. 💡
